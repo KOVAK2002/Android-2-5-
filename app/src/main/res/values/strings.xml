@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LV2.1</string>
+    <string name="question_1">Čelik je magnetiziran materijal.?</string>
+    <string name="question_2">Voda ključa na temperaturi od 100 stupnjeva Celzijusa na standardnom atmosferskom tlaku?</string>
+    <string name="question_3">Sunce izlazi na zapadu?</string>
+    <string name="question_4">Ljudi koriste manje od 10% svojih mozgova?</string>
+    <string name="question_5">Mozart je bio slikar?</string>
+    <string name="correct_answer">Točan odgovor!</string>
+    <string name="incorrect_answer">Netočan odgovor.</string>
+</resources>
