@@ -36,6 +36,13 @@
         android:text="Next"
         android:onClick="nextQuestion"
         android:visibility="gone"/>
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/back_button_label"
+        android:onClick="previousQuestion"
+        android:visibility="gone"/>
 
     <TextView
         android:id="@+id/resultTextView"
